@@ -1,63 +1,49 @@
-<h1 align="center">👋 Привет, я Омар!</h1>
-<h3 align="center">Full Stack Developer | .NET & React | Алматы 🇰🇿</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
-  Добро пожаловать в мой уголок кода!
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Fullstack+Developer;Building+AI-powered+Products;LLM+%7C+RAG+%7C+Automation" />
 
----
+<br>
 
-### 🧠 Немного обо мне
+<img src="https://komarev.com/ghpvc/?username=Omarigato&color=00ffff&style=for-the-badge">
 
-- 🎓 Студент 4 курса **МУИТ**, специальность — *Кибербезопасность*  
-- 💻 Full Stack разработчик с опытом **1.5+ лет** (C#, .NET, MS SQL, React, JS)  
-- 🚀 Создал и выложил в продакшн свой первый сайт — [**imperium.kz**](https://imperium.kz)  
-- ⚡ Обожаю писать чистый код, автоматизировать рутину и искать новые технологии  
-- 💬 Люблю обсуждать архитектуру, дизайн систем и просто — кодить ночами 🌙  
+</div>
 
----
 
-### ⚙️ Технологический стек
+<h1 align="center">
+  👋 Omarigato
+</h1>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,react,nodejs,express,html,css,postgresql,mysql,git,github,aws,linux" />
-</p>
+<h3 align="center">
+  AI Engineer • Fullstack Developer • Builder
+</h3>
 
----
 
-### 📊 GitHub Статистика
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omarigato&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarigato&layout=compact&theme=tokyonight" height="160">
-</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx/your-animation.gif" width="400"/>
+
+</div>
+
 
 ---
 
-### 🌍 Найди меня
+## 🧠 About me
 
-<p align="center">
-  <a href="https://t.me/Omarigato"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:omarakim2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://imperium.kz"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
 
----
+```yaml
+name: Omar Akim
+location: Kazakhstan 🇰🇿
 
-### 💡 Цель
+focus:
+  - Artificial Intelligence
+  - LLM Applications
+  - RAG Systems
+  - Fullstack Development
 
-> Создавать решения, которые делают технологии ближе к людям.  
-> Расти как инженер, который объединяет **идею, дизайн и безопасность**.
+currently_building:
+  - AI assistants
+  - Automation systems
+  - Web platforms
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omarigato&theme=tokyonight&no-frame=true&margin-w=15">
-</p>
-
----
-
-<p align="center">
-  🚀 *Пусть код говорит сам за себя.*
-</p>
+philosophy:
+  "Build useful things, not just code"
